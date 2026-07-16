@@ -1,0 +1,24 @@
+body{
+    background-color :antiquewhite;
+}
+.header{
+    text-align:center;
+    color :aliceblue;
+    text-decoration: wavy;
+
+}
+#header2{
+    text-align :left;
+    color :aquamarine;
+    text-decoration: wavy;
+
+}
+.p{
+    text-align: center;
+    color: brown;
+    text-decoration: dashed;
+}
+.img{
+    text-align:left;
+    border-radius :50%;
+}

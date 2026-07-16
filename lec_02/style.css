@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(67, 133, 181);
+    
+}
+.container1{
+    text-align: center;
+    color:whitesmoke;
+    float:left;
+    margin :20px;
+    padding :20px;
+    border-radius :10px;
+    border : 5px solid white;
+    width :40%;
+    height:40%;
+
+}
+.container2{
+    text-align: center;
+    float: right;
+    color:whitesmoke;
+    margin :20px;
+    padding :20px;
+    border-radius :10px;
+    border : 5px solid white;
+    width :40%;
+    height:40%;
+
+}
+.container3{
+    text-align: center;
+    color:whitesmoke;
+    float:left;
+    margin :20px;
+    padding :20px;
+    border-radius :10px;
+    border : 5px solid white;
+    width :40%;
+    height:40%;
+
+}
+.container4{
+    text-align: center;
+    float: right;
+    color:whitesmoke;
+    margin :20px;
+    padding :20px;
+    border-radius :10px;
+    border : 5px solid white;
+    width :40%;
+    height:40%;
+
+}
+
+#a{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(7, 73, 132);
+    text-transform: capitalize;
+    
+}
+
+#b{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(7, 73, 132);
+    text-transform: capitalize;
+    
+}
+#c{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(7, 73, 132);
+    text-transform: capitalize;
+    
+}
+#d{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(7, 73, 132);
+    text-transform: capitalize;
+    
+}
+
+
+
